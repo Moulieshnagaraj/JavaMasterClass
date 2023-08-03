@@ -22,6 +22,10 @@ public class Main {
 
         System.out.println(repeatedElement);
     }
+
+    public void printName(){
+        System.out.println("Hello my name is chandra mouliesh ");
+    }
 }
 
 // GIVEN AN ARRAY OF ELEMENTS, +VE, FIND THE SECOND LARGEST ELEMENT IN THE ARRAY
